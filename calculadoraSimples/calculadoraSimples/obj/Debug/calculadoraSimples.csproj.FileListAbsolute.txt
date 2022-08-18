@@ -1,0 +1,8 @@
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.exe.config
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.exe
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\bin\Debug\calculadoraSimples.pdb
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.exe
+C:\Users\Ademir\source\repos\calculadoraSimples\calculadoraSimples\obj\Debug\calculadoraSimples.pdb
